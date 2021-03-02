@@ -1,0 +1,82 @@
+Is onze nieuwsbrief niet goed leesbaar? Bekijk hier de online versie :
+<%@ include view='rc_be_asadventure_personalization_mirror_page' %>
+
+++++++++++++++
+A.S.Adventure
+++++++++++++++
+
+——————————————
+Nieuwe kortingen: tot -70% korting op outdoor
+——————————————
+
+Keep walking! Dat is sowieso extra fijn wanneer je van kop tot teen goed uitgerust bent. Nu ook solden tot -70% én op niet eerder afgeprijsde outdoor collecties.
+
+[ + ] Dames:
+https://www.asadventure.com/nl/c/solden/outdoor.html?page=0&size=48&filter=%2526filter%253Dbe_type_gender%253A%2528dames%2529
+
+[ + ] Heren:
+https://www.asadventure.com/nl/c/solden/outdoor.html?page=0&size=48&filter=%2526filter%253Dbe_type_gender%253A%2528heren%2529
+
+[ + ] Kids:
+https://www.asadventure.com/nl/c/solden/outdoor.html?page=0&size=48&filter=%2526filter%253Dbe_type_gender%253A%2528jongens%253Bjunior%253Bmeisjes%2529
+
+——————————————
+How to: 's winters wandelen
+——————————————
+
+Is jouw outfit al bestand tegen koude, regen, wind en modder? Deze items mogen zeker niet ontbreken wanneer je binnenkort weer de deur uitwandelt:
+
+——————————————
+#1 Wandelschoenen
+——————————————
+
+Diepe plassen, modder, grind, sneeuw: je weet nooit wat er op je pad komt. Met het juiste paar wandelschoenen maak je je geen zorgen meer over koude tenen of natte kousen.
+
+Meindl Caracas Mid Gore-Tex: € 209,95
+- Comfortabele wandelschoen
+- Air-Active inlegzool voorkomt klamme voeten
+- Urban Walker zool biedt demping en grip
+
+[ + ] Meindl Caracas Mid Gore-Tex:
+https://www.asadventure.com/nl/p/meindl-schoen-caracas-mid-gore-tex-3726C70002.html?colour=3622
+
+[ + ] Hou de pas erin:
+https://www.asadventure.com/nl/c/schoenen/wandelschoenen.html
+
+——————————————	
+#2 Wandelbroek
+——————————————
+
+Een joggingbroek laat koude wind door, terwijl een natte jeans allesbehalve comfortabel is. Zorg dus voor een wandelbroek die wind- en waterproof is. En lekker warm.
+
+[ + ] Draag de broek buiten:
+https://www.asadventure.com/nl/c/wandelen/kleding/broeken.html
+
+——————————————	
+#3 Comfy fleecetrui
+——————————————
+
+Een fleecetrui houdt je lichaamswarmte vast, terwijl het de koude van buitenaf tegenhoudt. Mooi meegenomen: je zweet kan wel nog steeds ontsnappen!
+
+[ + ] Shop fleecetruien:
+https://www.asadventure.com/nl/c/wandelen/kleding/fleeces.html
+
+——————————————	
+#4 Wandeljas
+——————————————
+
+Een echte wandeljas beschermt je urenlang tegen regen, wind en koude. Maar daar houdt het niet op. Dankzij het ademend vermogen ga je ook niet oververhitten of zweten.
+
+[ + ] Shop wandeljassen:
+https://www.asadventure.com/nl/c/wandelen/kleding/jassen.html
+
+——————————————	
+Bega jij deze wandelblunders?
+——————————————
+
+Iedereen heeft wel eens blaren gekregen na het wandelen. En wie is er nog nooit natgeregend? Dit zijn de absolute wandel-misstappen én hun oplossingen.
+
+[ + ] 8x wandelblunders:
+https://www.asadventure.com/nl/expertise-tips/outdoor/dit-zijn-de-5-grootste-wandelblunders.html
+
+<%@ include view='rc_be_marketing_footernew_benl' %>
